@@ -1,3 +1,6 @@
+#EXTM3U
+
+
 #EXTINF:-1 tvg-id="" tvg-name="História de Amor (Globoplay) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytJwt74jO95v4y0SMiPtPm5Ete3.jpg" group-title="Novela - Historia De Amor",História de Amor (Globoplay) S01 E01
 http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/106911.mp4
 #EXTINF:-1 tvg-id="" tvg-name="História de Amor (Globoplay) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytJwt74jO95v4y0SMiPtPm5Ete3.jpg" group-title="Novela - Historia De Amor",História de Amor (Globoplay) S01 E02
