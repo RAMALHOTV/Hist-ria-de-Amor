@@ -1,347 +1,630 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E01
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E02
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62733.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E03
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E04
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62735.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E05
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E06
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E07
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E08
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E09
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E10
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62741.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E11
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E12
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62743.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E13
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62744.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E14" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E14
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62745.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E15" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E15
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E16" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E16
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62747.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E17" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E17
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62748.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E18" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E18
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62749.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E19" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E19
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E20" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E20
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62751.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E21" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E21
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62752.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E22" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E22
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62753.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E23" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E23
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62754.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E24" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E24
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62755.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E25" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E25
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62756.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E26" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E26
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62757.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E27" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E27
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62758.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E28" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E28
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62759.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E29" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E29
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62760.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E30" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E30
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62761.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E31" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E31
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E32" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E32
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62763.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E33" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E33
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62764.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E34" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E34
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62765.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E35" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E35
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62766.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E36" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E36
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62767.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E37" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E37
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62768.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E38" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E38
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62769.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E39" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E39
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62770.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E40" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E40
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62771.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E41" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E41
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62772.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E42" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E42
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62773.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E43" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E43
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62774.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E44" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E44
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E45" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E45
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62776.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E46" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E46
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62777.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E47" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E47
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62778.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E48" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E48
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62779.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E49" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E49
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62780.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E50" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E50
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62781.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E51" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E51
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62782.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E52" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E52
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62783.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E53" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E53
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62784.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E54" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E54
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62785.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E55" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E55
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62786.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E56" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E56
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62787.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E57" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E57
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62788.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E58" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E58
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62789.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E59" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E59
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62790.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E60" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E60
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E61" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E61
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62792.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E62" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E62
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62793.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E63" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E63
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62794.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E64" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E64
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62795.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E65" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E65
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62796.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E66" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E66
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62797.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E67" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E67
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E68" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E68
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E69" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E69
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62800.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E70" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E70
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62801.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E71" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E71
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62802.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E72" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E72
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62803.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E73" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E73
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62804.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E74" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E74
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62805.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E75" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E75
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62806.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E76" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E76
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62807.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E77" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E77
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62808.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E78" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E78
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62809.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E79" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E79
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62810.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E80" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E80
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E81" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E81
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62812.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E82" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E82
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E83" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E83
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62814.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E84" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E84
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E85" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E85
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E86" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E86
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E87" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E87
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E88" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E88
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62819.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E89" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E89
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E90" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E90
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62821.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E91" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E91
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62822.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E92" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E92
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62823.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E93" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E93
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62824.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E94" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E94
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E95" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E95
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62826.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E96" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E96
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E97" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E97
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E98" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E98
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62829.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E99" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E99
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E100" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E100
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62831.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E101" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E101
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62832.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E102" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E102
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62833.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E103" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E103
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62834.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E104" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E104
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62835.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E105" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E105
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62836.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E106" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E106
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62837.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E107" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E107
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E108" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E108
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62839.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E109" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E109
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62840.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E110" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E110
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62841.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E111" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E111
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62842.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E112" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E112
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62843.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E113" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E113
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62844.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E114" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E114
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62845.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E115" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E115
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62846.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E116" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E116
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62847.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E117" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E117
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62848.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E118" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E118
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62849.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E119" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E119
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62850.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E120" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E120
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62851.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E121" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E121
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62852.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E122" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E122
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62853.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E123" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E123
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62854.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E124" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E124
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62855.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E125" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E125
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62856.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E126" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E126
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62857.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E127" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E127
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62858.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E128" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E128
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62859.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E129" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E129
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62860.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E130" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E130
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62861.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E131" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E131
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62862.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E132" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E132
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62863.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E133" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E133
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62864.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E134" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E134
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62865.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E135" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E135
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62866.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E136" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E136
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62867.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E137" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E137
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62868.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E138" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E138
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62869.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E139" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E139
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62870.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E140" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E140
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62871.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E141" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E141
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62872.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E142" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E142
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62873.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E143" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E143
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62874.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E144" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E144
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62875.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E145" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E145
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62876.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E146" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E146
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62877.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E147" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E147
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62878.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E148" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E148
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62879.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E149" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E149
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62880.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E150" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E150
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62881.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E151" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E151
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E152" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E152
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62883.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E153" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E153
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62884.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E154" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E154
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E155" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E155
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E156" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E156
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62887.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E157" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E157
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62888.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E158" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E158
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62889.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E159" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E159
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62890.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E160" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E160
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62891.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E161" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E161
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62892.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E162" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E162
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62893.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E163" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E163
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62894.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E164" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E164
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62895.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E165" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E165
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E166" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E166
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E167" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E167
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E168" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E168
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E169" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E169
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E170" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E170
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E171" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E171
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62902.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico S01 E172" tvg-logo="https://image.tmdb.org/t/p/w300/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg" group-title="Novelas",Velho Chico S01 E172
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62903.mp4
+#EXTINF:-1,WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/19291
+#EXTINF:-1,NATGEO KIDS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/19290
+#EXTINF:-1,BABY TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/19289
+#EXTINF:-1,BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/1285
+#EXTINF:-1,BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/1286
+#EXTINF:-1,BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/1288
+#EXTINF:-1,BEIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/1289
+#EXTINF:-1,BEIN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/1290
+#EXTINF:-1,BEIN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/1292
+#EXTINF:-1,BEIN SPORTS 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/1293
+#EXTINF:-1,BEIN SPORTS NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/1294
+#EXTINF:-1,ANIMAL PLANET 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18055
+#EXTINF:-1,ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/12
+#EXTINF:-1,CTC LOVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/132
+#EXTINF:-1,DISCOVERY CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4048
+#EXTINF:-1,DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/171
+#EXTINF:-1,DISCOVERY H&amp;H 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18050
+#EXTINF:-1,DISCOVERY H&amp;H HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/175
+#EXTINF:-1,DISCOVERY ID 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18045
+#EXTINF:-1,DISCOVERY ID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/176
+#EXTINF:-1,DISCOVERY SCIENCE 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18053
+#EXTINF:-1,DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/179
+#EXTINF:-1,DISCOVERY THEATER 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18051
+#EXTINF:-1,DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/180
+#EXTINF:-1,DISCOVERY TURBO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18049
+#EXTINF:-1,DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/182
+#EXTINF:-1,DISCOVERY WORLD 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18048
+#EXTINF:-1,DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/183
+#EXTINF:-1,FISH TV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18042
+#EXTINF:-1,FISH TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/248
+#EXTINF:-1,H2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/299
+#EXTINF:-1,HISTORY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/496
+#EXTINF:-1,MAIS NA TELA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4054
+#EXTINF:-1,NAT GEO WILD 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/332
+#EXTINF:-1,NATIONAL GEOGRAPHIC 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18044
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/335
+#EXTINF:-1,HISTORY CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18057
+#EXTINF:-1,TLC 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/5129
+#EXTINF:-1,TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/181
+#EXTINF:-1,CANCAO NOVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/88
+#EXTINF:-1,CANCAO NOVA UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/87
+#EXTINF:-1,COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/126
+#EXTINF:-1,CURTA 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/133
+#EXTINF:-1,E! 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/189
+#EXTINF:-1,E! 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18074
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/190
+#EXTINF:-1,FOOD NETWORK 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18056
+#EXTINF:-1,FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/249
+#EXTINF:-1,GLOBOSAT + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/294
+#EXTINF:-1,GNT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18047
+#EXTINF:-1,GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/297
+#EXTINF:-1,MTV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18059
+#EXTINF:-1,REDE VIDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/443
+#EXTINF:-1,VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4075
+#EXTINF:-1,VIVA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/547
+#EXTINF:-1,WOOHOO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/551
+#EXTINF:-1,BAND SPORTS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4093
+#EXTINF:-1,BAND SPORTS HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/75
+#EXTINF:-1,COMBATE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/125
+#EXTINF:-1,COMBATE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/124
+#EXTINF:-1,ELEVEN SPORTS 1 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/191
+#EXTINF:-1,ELEVEN SPORTS 2 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/192
+#EXTINF:-1,ESPN 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4092
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/238
+#EXTINF:-1,ESPN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4069
+#EXTINF:-1,ESPN BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4068
+#EXTINF:-1,ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/240
+#EXTINF:-1,ESPN EXTRA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4060
+#EXTINF:-1,ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/242
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/243
+#EXTINF:-1,EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/245
+#EXTINF:-1,EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/246
+#EXTINF:-1,FOX SPORTS 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4734
+#EXTINF:-1,FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/262
+#EXTINF:-1,FOX SPORTS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4733
+#EXTINF:-1,FOX SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/265
+#EXTINF:-1,PFC +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/347
+#EXTINF:-1,PREMIERE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/351
+#EXTINF:-1,PREMIERE 1 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/350
+#EXTINF:-1,PREMIERE 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/17289
+#EXTINF:-1,PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/353
+#EXTINF:-1,PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/355
+#EXTINF:-1,PREMIERE 3 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/354
+#EXTINF:-1,PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/357
+#EXTINF:-1,PREMIERE 4 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/356
+#EXTINF:-1,PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/359
+#EXTINF:-1,PREMIERE 5 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/358
+#EXTINF:-1,PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/361
+#EXTINF:-1,PREMIERE 6 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/360
+#EXTINF:-1,PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/363
+#EXTINF:-1,PREMIERE 7 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/362
+#EXTINF:-1,PREMIERE 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/364
+#EXTINF:-1,PREMIERE 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/365
+#EXTINF:-1,PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/368
+#EXTINF:-1,PREMIERE CLUBES 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/366
+#EXTINF:-1,SPORT TV 1 + UHD PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/460
+#EXTINF:-1,SPORT TV 1 HD PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/461
+#EXTINF:-1,SPORT TV 2 HD PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/462
+#EXTINF:-1,SPORT TV 3 HD PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/463
+#EXTINF:-1,SPORT TV 4 HD PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/464
+#EXTINF:-1,SPORT TV 5 HD PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/465
+#EXTINF:-1,SPORTV 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18063
+#EXTINF:-1,SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/467
+#EXTINF:-1,SPORTV 3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18064
+#EXTINF:-1,SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/469
+#EXTINF:-1,SPORTV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18062
+#EXTINF:-1,SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/474
+#EXTINF:-1,CAMPEONATO CARIOCA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/9123
+#EXTINF:-1,CONMEBOL TV 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/16255
+#EXTINF:-1,CONMEBOL TV 3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/5130
+#EXTINF:-1,CONMEBOL TV 4 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/5131
+#EXTINF:-1,CONMEBOL TV1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/128
+#EXTINF:-1,CONMEBOL TV2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/129
+#EXTINF:-1,CONMEBOL TV3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/130
+#EXTINF:-1,CONMEBOL TV4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/131
+#EXTINF:-1,COPA NORDESTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/8564
+#EXTINF:-1,COPA NORDESTE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/8565
+#EXTINF:-1,DAZN 1 BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/134
+#EXTINF:-1,DAZN 1 EUR HD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/135
+#EXTINF:-1,DAZN 1 LATINO (Solo Eventos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/136
+#EXTINF:-1,DAZN 2 BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/137
+#EXTINF:-1,DAZN 2 EUR HD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/138
+#EXTINF:-1,DAZN 2 LATINO (Solo Eventos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/139
+#EXTINF:-1,DAZN BAR 1 HD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/141
+#EXTINF:-1,DAZN BAR 2 HD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/142
+#EXTINF:-1,DAZN BRASIL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/143
+#EXTINF:-1,DAZN BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/144
+#EXTINF:-1,ESTADIO TNT SPORT 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/9918
+#EXTINF:-1,ESTADIO TNT SPORT 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/9919
+#EXTINF:-1,ESTADIO TNT SPORT 03  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/9920
+#EXTINF:-1,ESTADIO TNT SPORT 05 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/9922
+#EXTINF:-1,ESTADIO TNT SPORTS MELHORES MOMENTOS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/9923
+#EXTINF:-1,A&E 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18065
+#EXTINF:-1,A&amp;E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/6
+#EXTINF:-1,AMC 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/501
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/9
+#EXTINF:-1,ARTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4053
+#EXTINF:-1,ARTE 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18072
+#EXTINF:-1,AXN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/499
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/67
+#EXTINF:-1,CANAL BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/5128
+#EXTINF:-1,CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/85
+#EXTINF:-1,SONY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/86
+#EXTINF:-1,CINEMAX 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4071
+#EXTINF:-1,CINEMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/105
+#EXTINF:-1,FILM &amp; ARTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/247
+#EXTINF:-1,FUTURA 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/266
+#EXTINF:-1,FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/267
+#EXTINF:-1,HBO + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/301
+#EXTINF:-1,HBO + 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/300
+#EXTINF:-1,HBO 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4085
+#EXTINF:-1,HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/303
+#EXTINF:-1,HBO 3 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/304
+#EXTINF:-1,HBO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4084
+#EXTINF:-1,HBO FAMILY 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4087
+#EXTINF:-1,HBO FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/308
+#EXTINF:-1,HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/309
+#EXTINF:-1,HBO MUNDI 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4072
+#EXTINF:-1,HBO MUNDI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/310
+#EXTINF:-1,HBO POP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4089
+#EXTINF:-1,HBO POP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/314
+#EXTINF:-1,HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/316
+#EXTINF:-1,HBO SINGNATURE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4088
+#EXTINF:-1,HBO XTREME 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4073
+#EXTINF:-1,HBO XTREME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/317
+#EXTINF:-1,LIFETIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/324
+#EXTINF:-1,MEGAPIX 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4518
+#EXTINF:-1,OFF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/343
+#EXTINF:-1,PARAMOUNT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/345
+#EXTINF:-1,PARAMOUNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/346
+#EXTINF:-1,PRIME BOX BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/5126
+#EXTINF:-1,SPACE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18068
+#EXTINF:-1,SPACE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/459
+#EXTINF:-1,STAR CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18078
+#EXTINF:-1,STAR CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/250
+#EXTINF:-1,STAR HITS 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4050
+#EXTINF:-1,STAR HITS 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4051
+#EXTINF:-1,STAR LIFE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18077
+#EXTINF:-1,STAR LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/254
+#EXTINF:-1,TBS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/476
+#EXTINF:-1,TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/477
+#EXTINF:-1,TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/479
+#EXTINF:-1,TCM 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/478
+#EXTINF:-1,TELECINE ACTION 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4519
+#EXTINF:-1,TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/481
+#EXTINF:-1,TELECINE CULT 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18041
+#EXTINF:-1,TELECINE CULT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/483
+#EXTINF:-1,TELECINE FUN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4520
+#EXTINF:-1,TELECINE FUN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/485
+#EXTINF:-1,TELECINE PIPOCA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4524
+#EXTINF:-1,TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/488
+#EXTINF:-1,TELECINE PREMIUM 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4522
+#EXTINF:-1,TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/491
+#EXTINF:-1,TELECINE TOUCH 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4523
+#EXTINF:-1,TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/493
+#EXTINF:-1,TNT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18066
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/503
+#EXTINF:-1,TNT SERIES 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18067
+#EXTINF:-1,TNT SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/502
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/544
+#EXTINF:-1,WARNER CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/549
+#EXTINF:-1,BABY TV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/69
+#EXTINF:-1,BOOMERANG 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18037
+#EXTINF:-1,BOOMERANG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/80
+#EXTINF:-1,CARTOON NETWORK 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18034
+#EXTINF:-1,CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/89
+#EXTINF:-1,DISCOVERY KIDS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4083
+#EXTINF:-1,DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/178
+#EXTINF:-1,DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/184
+#EXTINF:-1,DISNEY CHANNEL  4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18035
+#EXTINF:-1,DISNEY XD 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18039
+#EXTINF:-1,GLOOB 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4056
+#EXTINF:-1,GLOOB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/295
+#EXTINF:-1,GLOOBINHO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18040
+#EXTINF:-1,GLOOBINHO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/296
+#EXTINF:-1,NICK JR 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18036
+#EXTINF:-1,NICK JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/340
+#EXTINF:-1,NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/341
+#EXTINF:-1,TOONCAST 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/18038
+#EXTINF:-1,TOONCAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/505
+#EXTINF:-1,TV RA TIM BUM 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/5127
+#EXTINF:-1,ZOOMOO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/585
+#EXTINF:-1,BAND NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/72
+#EXTINF:-1,CNN BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/107
+#EXTINF:-1,CNN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/108
+#EXTINF:-1,CNN ESPANHOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/113
+#EXTINF:-1,CNN INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/116
+#EXTINF:-1,CNN TURK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/120
+#EXTINF:-1,CNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/123
+#EXTINF:-1,GLOBO NEWS DF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/277
+#EXTINF:-1,GLOBO NEWS MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/278
+#EXTINF:-1,GLOBO NEWS SP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/279
+#EXTINF:-1,NHK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/339
+#EXTINF:-1,RECORD NEWS U4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/430
+#EXTINF:-1,RECORD NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/431
+#EXTINF:-1,SIC INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/455
+#EXTINF:-1,TV5 MONDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/535
+#EXTINF:-1,CARACOL HD PY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/195
+#EXTINF:-1,HBO 2 4K PY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/198
+#EXTINF:-1,HBO 4K PY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/199
+#EXTINF:-1,HBO FAMILY 4K PY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/200
+#EXTINF:-1,HBO SINGNATURE 4K PY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/203
+#EXTINF:-1,HISTORIA 4K PY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/194
+#EXTINF:-1,BAND MINAS UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/71
+#EXTINF:-1,BAND NEWS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4094
+#EXTINF:-1,BAND NORDESTE UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/73
+#EXTINF:-1,BAND SP 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4735
+#EXTINF:-1,BAND SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/74
+#EXTINF:-1,CANAL BOI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/6814
+#EXTINF:-1,EPTV CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/193
+#EXTINF:-1,GLOBO BAHIA   4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/8566
+#EXTINF:-1,GLOBO BRASILIA 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/269
+#EXTINF:-1,GLOBO BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/268
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/270
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/271
+#EXTINF:-1,GLOBO EPTV SAO CARLOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/272
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO JUIZ DE FORA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/273
+#EXTINF:-1,GLOBO INTER TV CABUGI NATAL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/274
+#EXTINF:-1,GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/7919
+#EXTINF:-1,GLOBO MINAS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/276
+#EXTINF:-1,GLOBO NEWS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4525
+#EXTINF:-1,GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/282
+#EXTINF:-1,GLOBO NORDESTE  4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/281
+#EXTINF:-1,GLOBO RBS  PORTO ALEGRE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/284
+#EXTINF:-1,GLOBO RIO PRETO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/285
+#EXTINF:-1,GLOBO RJ 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/6455
+#EXTINF:-1,GLOBO RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/286
+#EXTINF:-1,GLOBO RPC CURITIBA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/287
+#EXTINF:-1,GLOBO RPC FOZ DO IGUAÇU 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/17290
+#EXTINF:-1,GLOBO RPC PARANAESE UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/288
+#EXTINF:-1,GLOBO SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/7918
+#EXTINF:-1,GLOBO SP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/289
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/291
+#EXTINF:-1,GLOBO INTER TV CABUGI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/322
+#EXTINF:-1,GLOBO NSC  BLUMENAU 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/342
+#EXTINF:-1,PRIME BOX BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/369
+#EXTINF:-1,RBI 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/419
+#EXTINF:-1,RBS TV PORTO ALEGRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/420
+#EXTINF:-1,RECORD BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/423
+#EXTINF:-1,RECORD DF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/425
+#EXTINF:-1,RECORD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/427
+#EXTINF:-1,RECORD MANAUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/429
+#EXTINF:-1,RECORD MINAS UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/15741
+#EXTINF:-1,RECORD RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/436
+#EXTINF:-1,RECORD SP INTERIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/438
+#EXTINF:-1,RECORD SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/437
+#EXTINF:-1,REDE BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/440
+#EXTINF:-1,REDE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/442
+#EXTINF:-1,SBT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/4736
+#EXTINF:-1,SBT CIDADE VERDE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/448
+#EXTINF:-1,SBT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/452
+#EXTINF:-1,SBT RJ UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/451
+#EXTINF:-1,SBT SERRA DURADA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/453
+#EXTINF:-1,SBT TV JORNAL UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/454
+#EXTINF:-1,TRU TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/506
+#EXTINF:-1,TV APARECIDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/508
+#EXTINF:-1,TV BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/509
+#EXTINF:-1,TV CAMARA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/512
+#EXTINF:-1,GLOBO TV CENTRAL AMERICA CUIABA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/513
+#EXTINF:-1,TV CULTURA  UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/514
+#EXTINF:-1,TV DIARIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/515
+#EXTINF:-1,TV ESCOLA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/517
+#EXTINF:-1,GLOBO TV GAZETA ES 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/17287
+#EXTINF:-1,TV HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/519
+#EXTINF:-1,GLOBO TV LIBERAL BELEM 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/521
+#EXTINF:-1,TV MORENA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/6813
+#EXTINF:-1,TV NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/522
+#EXTINF:-1,TV RA TIM BUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/524
+#EXTINF:-1,TV SENADO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/526
+#EXTINF:-1,TV TEM BAURU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/527
+#EXTINF:-1,TV TEM SAO JOSE DP RIO PRETO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/528
+#EXTINF:-1,TV TEM SOROCABA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/529
+#EXTINF:-1,TV TRIBUNA SANTOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/531
+#EXTINF:-1,TV VANGUARDA S. J. DOS CAMPOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR light blue]RamalhoIPTV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE5265039095/2431709298/533
