@@ -770,12 +770,6 @@ http://axr.life:80/MBOX004/147258369/5248
 http://axr.life:80/MBOX004/147258369/5096
 #EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON SD" tvg-logo="http://logocanais.ddns.net/Logo/nick1.png" group-title="CANAIS | INFANTIS",NICKELODEON SD
 http://axr.life:80/MBOX004/147258369/5467
-#EXTINF:-1 tvg-id="" tvg-name="NINFENTAS GULOSAS 2" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="CANAIS | XXX +18 ADULTOS",NINFENTAS GULOSAS 2
-http://axr.life:80/MBOX004/147258369/1010102
-#EXTINF:-1 tvg-id="" tvg-name="NOVATAS DO PORNO" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="CANAIS | XXX +18 ADULTOS",NOVATAS DO PORNO
-http://axr.life:80/MBOX004/147258369/1010103
-#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="NOVO TEMPO FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/rzf5NE.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO FHD
-http://axr.life:80/MBOX004/147258369/374361
 #EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="NOVO TEMPO HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/rzf5NE.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO HD
 http://axr.life:80/MBOX004/147258369/45255
 #EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="NOVO TEMPO HD " tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/rzf5NE.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO HD 
@@ -852,8 +846,6 @@ http://axr.life:80/MBOX004/147258369/5481
 http://axr.life:80/MBOX004/147258369/1022524
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES SD ¹" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES SD ¹
 http://axr.life:80/MBOX004/147258369/1011611
-#EXTINF:-1 tvg-id="" tvg-name="PRISCILA PRADO E MONICA" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="CANAIS | XXX +18 ADULTOS",PRISCILA PRADO E MONICA
-http://axr.life:80/MBOX004/147258369/1010130
 #EXTINF:-1 tvg-id="record.bahia.br" tvg-name="Record BA - ITAPOAN HD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",Record BA - ITAPOAN HD  
 http://axr.life:80/MBOX004/147258369/70990
 #EXTINF:-1 tvg-id="record.bahia.br" tvg-name="Record BA HD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",Record BA HD  
